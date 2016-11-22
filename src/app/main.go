@@ -21,8 +21,17 @@ func main() {
 	// set the global middlewares
 	iris.Use(logger.New())
 
+
+
+	// this will reload the templates on each request, defaults to false
+	iris.Config.IsDevelopment = true
+	// this serves the templates with gzip compression, defaults to false
+	//iris.Config.Gzip = true
+
 	// register Routes
 	registerRoutes()
+
+
 
 	// start the server
 	iris.Listen(":8080")
@@ -36,7 +45,10 @@ func registerRoutes() {
 	// this is other way to declare a route
 	// using a 'HandlerFunc'
 	iris.Get("/", func(ctx *iris.Context) {
-		ctx.HTML(iris.StatusOK, "You should see the favicon now at the side of your browser, if not please refresh or clear the browser's cache.")
+		ctx.Log("log--01")
+		//ctx.Render("index.html", struct{ Name string }{Name: "iris"})
+		ctx.Write("hello this is dtuku.com")
+		//ctx.HTML(iris.StatusOK, "You should see the favicon now at the side of your browser, if not please refresh or clear the browser's cache.")
 	})
 
 	// Dynamic route

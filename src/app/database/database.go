@@ -10,7 +10,7 @@ import (
 
 const (
 	Host         = "mongodb://localhost:27017"
-	Database     = "iris"
+	Database     = "dtuku"
 	AuthDatabase = "authdb"
 	AuthUserName = "root"
 	AuthPassword = "pass"
