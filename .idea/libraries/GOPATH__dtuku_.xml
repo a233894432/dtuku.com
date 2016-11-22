@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;dtuku&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/go_standard_package" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/gobyexample.com" />
+      <root url="file://E:/github/my_web/src/labix.org" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/qiniupkg.com" />
+      <root url="file://E:/github/my_web/src/lesson" />
+      <root url="file://E:/github/my_web/src/qiniupkg.com" />
+      <root url="file://E:/github/my_web/src/gopkg.in" />
+      <root url="file://E:/github/my_web/src/dev" />
+      <root url="file://E:/github/go-webapp/src/templates" />
+      <root url="file://E:/github/go-webapp/src/gopkg.in" />
+      <root url="file://E:/github/go-webapp/src/database" />
+      <root url="file://E:/github/go-webapp/src/models" />
+      <root url="file://E:/github/my_web/src/sourcegraph.com" />
+      <root url="file://E:/github/go-webapp/src/github.com" />
+      <root url="file://E:/github/go-webapp/src/golang.org" />
+      <root url="file://E:/github/my_web/src/golang.org" />
+      <root url="file://E:/github/my_web/src/github.com" />
+      <root url="file://E:/github/my_web/src/example" />
+      <root url="file://E:/github/my_web/src/public" />
+      <root url="file://E:/github/go-webapp/src/config" />
+      <root url="file://E:/github/go-webapp/src/assets" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/build_webapp_lesson" />
+      <root url="file://E:/github/go-webapp/src/hateoas" />
+      <root url="file://E:/github/my_web/src/assets" />
+      <root url="file://E:/github/go-webapp/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/my_example" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/my_module" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/go_standard_package" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/gobyexample.com" />
+      <root url="file://E:/github/my_web/src/labix.org" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/qiniupkg.com" />
+      <root url="file://E:/github/my_web/src/lesson" />
+      <root url="file://E:/github/my_web/src/qiniupkg.com" />
+      <root url="file://E:/github/my_web/src/gopkg.in" />
+      <root url="file://E:/github/my_web/src/dev" />
+      <root url="file://E:/github/go-webapp/src/templates" />
+      <root url="file://E:/github/go-webapp/src/gopkg.in" />
+      <root url="file://E:/github/go-webapp/src/database" />
+      <root url="file://E:/github/go-webapp/src/models" />
+      <root url="file://E:/github/my_web/src/sourcegraph.com" />
+      <root url="file://E:/github/go-webapp/src/github.com" />
+      <root url="file://E:/github/go-webapp/src/golang.org" />
+      <root url="file://E:/github/my_web/src/golang.org" />
+      <root url="file://E:/github/my_web/src/github.com" />
+      <root url="file://E:/github/my_web/src/example" />
+      <root url="file://E:/github/my_web/src/public" />
+      <root url="file://E:/github/go-webapp/src/config" />
+      <root url="file://E:/github/go-webapp/src/assets" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/build_webapp_lesson" />
+      <root url="file://E:/github/go-webapp/src/hateoas" />
+      <root url="file://E:/github/my_web/src/assets" />
+      <root url="file://E:/github/go-webapp/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/my_example" />
+      <root url="file://$PROJECT_DIR$/../Golang-lesson/src/my_module" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
